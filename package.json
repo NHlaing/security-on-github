@@ -1,4 +1,4 @@
-{
+
   "name": "octocat-memory-game",
   "description": "Memory game with Octocats",
   "version": "2.6.8",
@@ -16,4 +16,3 @@
     "npm": "2.15.0"
   },
   "license": "MIT"
-}
